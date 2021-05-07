@@ -13,10 +13,11 @@ Frontend:
 + Clean code, easy to read and use for backend development for the next stage
 
 ## Contributing/ Progress
+
 Backend:
 
-Reporting Add to Cart and Checkout
-Admin dashboard for reviewing/approving the user reports
++ Reporting Add to Cart and Checkout
++ Admin dashboard for reviewing/approving the user reports
 ... and much more
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
